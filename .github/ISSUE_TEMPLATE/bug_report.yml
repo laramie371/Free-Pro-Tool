@@ -1,0 +1,92 @@
+name: Bug report
+description: Report a broken tool, page issue, or unexpected behavior.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve FreeProTool.
+
+        Please do not upload private, sensitive, financial, medical, legal, or personal files. If a file causes the bug, describe the file type and approximate size instead.
+
+  - type: input
+    id: tool
+    attributes:
+      label: Tool or page
+      description: Which FreeProTool tool or page had the problem?
+      placeholder: "Example: Merge PDF, SVG Optimizer, JSON Formatter"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      description: Paste the FreeProTool page URL if possible.
+      placeholder: "https://freeprotool.com/tools/merge-pdf"
+    validations:
+      required: false
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Explain the bug clearly.
+      placeholder: "I uploaded two PDFs, clicked merge, and the download never started."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      placeholder: "I expected one merged PDF to download."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Chrome
+        - Edge
+        - Firefox
+        - Safari
+        - Opera
+        - Brave
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: Operating system
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Android
+        - iOS
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: file-size
+    attributes:
+      label: Approximate file size
+      placeholder: "Example: 4 MB, 60 MB, unknown"
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Extra details
+      description: Add screenshots, console errors, or other details if safe to share.
+      placeholder: "No private files, passwords, tokens, personal data, or sensitive documents."
+    validations:
+      required: false

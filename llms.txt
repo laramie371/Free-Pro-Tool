@@ -1,0 +1,25 @@
+# FreeProTool
+
+FreeProTool is a free browser-based toolkit for PDFs, images, SVGs, documents, data files, and developer utilities.
+
+Main site:
+https://freeprotool.com
+
+Public tool catalog:
+https://github.com/laramie371/Free-Pro-Tool/blob/main/tools.json
+
+Important pages:
+https://freeprotool.com/tools
+https://freeprotool.com/pdf-tools
+https://freeprotool.com/image-tools
+https://freeprotool.com/svg-tools
+https://freeprotool.com/document-tools
+https://freeprotool.com/data-tools
+
+GitHub issue tracker:
+https://github.com/laramie371/Free-Pro-Tool/issues
+
+Notes:
+- The production website source code is private.
+- This repository contains public documentation, examples, metadata, and safe utility code.
+- Many tools are designed to run locally in the browser where possible.

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Merge PDF",
+    "slug": "merge-pdf",
+    "category": "PDF Tools",
+    "url": "https://freeprotool.com/tools/merge-pdf",
+    "description": "Merge multiple PDF files into one PDF in your browser.",
+    "inputFormats": ["pdf"],
+    "outputFormats": ["pdf"],
+    "runsLocally": true,
+    "keywords": ["merge pdf", "combine pdf", "join pdf files"]
+  },
+  {
+    "name": "SVG Optimizer",
+    "slug": "svg-optimizer",
+    "category": "SVG Tools",
+    "url": "https://freeprotool.com/tools/svg-optimizer",
+    "description": "Optimize, minify, and clean SVG files.",
+    "inputFormats": ["svg"],
+    "outputFormats": ["svg"],
+    "runsLocally": true,
+    "keywords": ["optimize svg", "minify svg", "reduce svg file size"]
+  },
+  {
+    "name": "JSON Formatter",
+    "slug": "json-formatter",
+    "category": "Developer Tools",
+    "url": "https://freeprotool.com/tools/json-formatter",
+    "description": "Format, validate, and clean JSON text.",
+    "inputFormats": ["json", "txt"],
+    "outputFormats": ["json", "txt"],
+    "runsLocally": true,
+    "keywords": ["json formatter", "format json", "json validator"]
+  }
+]

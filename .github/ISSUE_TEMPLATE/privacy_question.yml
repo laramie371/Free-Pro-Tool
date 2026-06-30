@@ -1,0 +1,25 @@
+name: Privacy question
+description: Ask about local processing, uploads, or file privacy.
+title: "[Privacy]: "
+labels: ["privacy"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include private files, personal documents, passwords, API keys, or sensitive information.
+
+  - type: input
+    id: tool
+    attributes:
+      label: Tool or page
+      placeholder: "Example: Compress PDF"
+    validations:
+      required: false
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      placeholder: "Does this tool process files locally in the browser?"
+    validations:
+      required: true

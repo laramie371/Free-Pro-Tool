@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FreeProTool website
+    url: https://freeprotool.com
+    about: Use the live site here.
+  - name: Privacy note
+    url: https://github.com/laramie371/Free-Pro-Tool/blob/main/docs/privacy.md
+    about: Please do not upload private or sensitive files to GitHub issues.

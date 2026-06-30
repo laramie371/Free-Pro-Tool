@@ -1,0 +1,55 @@
+name: Tool request
+description: Request a new FreeProTool tool or improvement.
+title: "[Tool request]: "
+labels: ["tool-request"]
+body:
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool idea
+      placeholder: "Example: Convert SVG to PDF"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      placeholder: "I often need to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: workflow
+    attributes:
+      label: How should it work?
+      placeholder: "Upload file, choose options, click convert, download result."
+    validations:
+      required: false
+
+  - type: input
+    id: input-format
+    attributes:
+      label: Input format
+      placeholder: "Example: SVG"
+    validations:
+      required: false
+
+  - type: input
+    id: output-format
+    attributes:
+      label: Output format
+      placeholder: "Example: PDF"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How important is this?
+      options:
+        - Nice to have
+        - Useful often
+        - I need this regularly
+    validations:
+      required: false
