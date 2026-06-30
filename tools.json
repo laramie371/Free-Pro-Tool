@@ -1,35 +1,2218 @@
 [
   {
+    "id": "remove-white-svg",
+    "name": "Remove White from SVG",
+    "slug": "remove-white-svg",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/remove-white-svg",
+    "description": "Make visible white areas transparent and download a clean PNG or SVG wrapper.",
+    "keywords": [
+      "remove white",
+      "white background",
+      "transparent background",
+      "delete white",
+      "erase white",
+      "svg transparency",
+      "white to transparent",
+      "png export",
+      "svg cleaner",
+      "canva",
+      "cricut",
+      "vector"
+    ]
+  },
+  {
+    "id": "remove-black-svg",
+    "name": "Remove Black from SVG",
+    "slug": "remove-black-svg",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/remove-black-svg",
+    "description": "Make visible black areas transparent and download a clean PNG or SVG wrapper.",
+    "keywords": [
+      "remove black",
+      "black background",
+      "transparent background",
+      "delete black",
+      "erase black",
+      "black to transparent",
+      "svg transparency",
+      "png export",
+      "svg cleaner",
+      "cricut",
+      "vector"
+    ]
+  },
+  {
+    "id": "svg-to-png",
+    "name": "SVG to PNG",
+    "slug": "svg-to-png",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/svg-to-png",
+    "description": "Convert SVG files to clean PNG images online.",
+    "keywords": [
+      "svg png",
+      "convert svg",
+      "svg converter",
+      "png export",
+      "rasterize svg",
+      "download png",
+      "transparent png",
+      "image converter",
+      "vector to image",
+      "web graphics"
+    ]
+  },
+  {
+    "id": "remove-color-from-svg",
+    "name": "Remove Color From SVG",
+    "slug": "remove-color-from-svg",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/remove-color-from-svg",
+    "description": "Remove a selected color from SVG artwork and make it transparent.",
+    "keywords": [
+      "remove color",
+      "delete color",
+      "specific color",
+      "color picker",
+      "transparent color",
+      "hex color",
+      "svg transparency",
+      "erase color",
+      "svg cleaner",
+      "color remover",
+      "white black red blue"
+    ]
+  },
+  {
+    "id": "auto-crop-svg",
+    "name": "Auto Crop SVG",
+    "slug": "auto-crop-svg",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/auto-crop-svg",
+    "description": "Crop extra blank space around SVG artwork automatically.",
+    "keywords": [
+      "auto crop",
+      "crop svg",
+      "trim svg",
+      "remove whitespace",
+      "blank space",
+      "viewbox",
+      "svg bounds",
+      "tight crop",
+      "crop transparent",
+      "artboard",
+      "canvas"
+    ]
+  },
+  {
+    "id": "invert-svg-colors",
+    "name": "Invert SVG Colors",
+    "slug": "invert-svg-colors",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/invert-svg-colors",
+    "description": "Invert SVG colors for contrast, dark-mode assets, and quick design tests.",
+    "keywords": [
+      "invert colors",
+      "reverse colors",
+      "dark mode",
+      "black white invert",
+      "svg color invert",
+      "contrast",
+      "negative colors",
+      "fill stroke",
+      "color transform"
+    ]
+  },
+  {
+    "id": "optimize-svg",
+    "name": "Optimize SVG",
+    "slug": "optimize-svg",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/optimize-svg",
+    "description": "Safely clean and minify SVG markup locally in your browser while preserving vector artwork.",
+    "keywords": [
+      "optimize svg",
+      "optimize svg",
+      "optimize",
+      "svg optimizer",
+      "minify svg",
+      "reduce svg file size",
+      "remove svg metadata",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "svg-viewer",
+    "name": "SVG Viewer",
+    "slug": "svg-viewer",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/svg-viewer",
+    "description": "Open, preview, and inspect SVG files directly in your browser.",
+    "keywords": [
+      "svg viewer",
+      "preview svg",
+      "open svg",
+      "inspect svg",
+      "vector viewer"
+    ]
+  },
+  {
+    "id": "minify-svg",
+    "name": "Minify SVG",
+    "slug": "minify-svg",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/minify-svg",
+    "description": "Remove comments and unnecessary whitespace from SVG files locally in your browser.",
+    "keywords": [
+      "minify svg",
+      "minify svg",
+      "minify",
+      "svg optimizer",
+      "minify svg",
+      "reduce svg file size",
+      "remove svg metadata",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "svg-color-replacer",
+    "name": "SVG Color Replacer",
+    "slug": "svg-color-replacer",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/svg-color-replacer",
+    "description": "Find and replace SVG colors using hex values and quick color controls.",
+    "keywords": [
+      "svg color replacer",
+      "replace svg color",
+      "hex color",
+      "svg editor",
+      "vector color"
+    ]
+  },
+  {
+    "id": "reduce-svg-file-size",
+    "name": "Reduce SVG File Size",
+    "slug": "reduce-svg-file-size",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/reduce-svg-file-size",
+    "description": "Reduce SVG file size with safe metadata cleanup and minification in your browser.",
+    "keywords": [
+      "reduce svg file size",
+      "reduce svg file size",
+      "reduce",
+      "svg optimizer",
+      "minify svg",
+      "reduce svg file size",
+      "remove svg metadata",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-metadata-from-svg",
+    "name": "Remove Metadata from SVG",
+    "slug": "remove-metadata-from-svg",
+    "category": "SVG Tools",
+    "url": "https://www.freeprotool.com/tools/remove-metadata-from-svg",
+    "description": "Remove SVG metadata, descriptions, comments, and editor traces locally before sharing.",
+    "keywords": [
+      "remove metadata from svg",
+      "remove metadata from svg",
+      "metadata",
+      "svg optimizer",
+      "minify svg",
+      "reduce svg file size",
+      "remove svg metadata",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "random-misspellings-generator",
+    "name": "Random Misspellings Generator",
+    "slug": "random-misspellings-generator",
+    "category": "Text Tools",
+    "url": "https://www.freeprotool.com/tools/random-misspellings-generator",
+    "description": "Generate typo and misspelling variations from clean text.",
+    "keywords": [
+      "misspell",
+      "misspellings",
+      "typo generator",
+      "human typo",
+      "dirty text",
+      "dataset",
+      "homophones",
+      "grammar mistakes",
+      "keyboard mistakes",
+      "duplicate words",
+      "text corruptor",
+      "training data"
+    ]
+  },
+  {
+    "id": "random-character-inserter",
+    "name": "Random Character Inserter",
+    "slug": "random-character-inserter",
+    "category": "Text Tools",
+    "url": "https://www.freeprotool.com/tools/random-character-inserter",
+    "description": "Insert random letters, numbers, or symbols into text for dirty datasets.",
+    "keywords": [
+      "random characters",
+      "insert characters",
+      "dirty dataset",
+      "text noise",
+      "letter inserter",
+      "number inserter",
+      "symbol inserter",
+      "corrupt text",
+      "testing data",
+      "data mutation"
+    ]
+  },
+  {
+    "id": "ocr-error-generator",
+    "name": "OCR Error Generator",
+    "slug": "ocr-error-generator",
+    "category": "Text Tools",
+    "url": "https://www.freeprotool.com/tools/ocr-error-generator",
+    "description": "Generate realistic OCR-style text errors for dirty datasets and document parser testing.",
+    "keywords": [
+      "ocr",
+      "ocr error",
+      "ocr mistakes",
+      "scan errors",
+      "dirty text",
+      "text corruption",
+      "document extraction",
+      "parser testing",
+      "ai training data",
+      "receipt OCR",
+      "lookalike characters",
+      "missing spaces"
+    ]
+  },
+  {
+    "id": "keyboard-typo-generator",
+    "name": "Keyboard Typo Generator",
+    "slug": "keyboard-typo-generator",
+    "category": "Text Tools",
+    "url": "https://www.freeprotool.com/tools/keyboard-typo-generator",
+    "description": "Generate realistic keyboard-adjacent typos for dirty text and testing data.",
+    "keywords": [
+      "keyboard typo",
+      "typo generator",
+      "adjacent keys",
+      "dirty text",
+      "test data"
+    ]
+  },
+  {
+    "id": "ocr-cleanup-tool",
+    "name": "OCR Cleanup Tool",
+    "slug": "ocr-cleanup-tool",
+    "category": "Text Tools",
+    "url": "https://www.freeprotool.com/tools/ocr-cleanup-tool",
+    "description": "Clean common OCR mistakes from copied scans and extracted document text.",
+    "keywords": [
+      "ocr cleanup",
+      "clean ocr",
+      "scan text",
+      "document cleanup",
+      "text correction"
+    ]
+  },
+  {
+    "id": "json-viewer",
+    "name": "JSON Viewer",
+    "slug": "json-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/json-viewer",
+    "description": "Open, validate, format, minify, and inspect JSON files in your browser.",
+    "keywords": [
+      "json",
+      "json viewer",
+      "json formatter",
+      "json validator",
+      "format json",
+      "minify json",
+      "tree view",
+      "inspect json",
+      "open json",
+      "developer tools",
+      "api response"
+    ]
+  },
+  {
+    "id": "csv-viewer",
+    "name": "CSV Viewer",
+    "slug": "csv-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/csv-viewer",
+    "description": "Open, preview, search, and inspect CSV files in your browser.",
+    "keywords": [
+      "csv",
+      "csv viewer",
+      "csv preview",
+      "open csv",
+      "search csv",
+      "delimiter",
+      "comma separated",
+      "spreadsheet",
+      "table viewer",
+      "data file",
+      "dataset"
+    ]
+  },
+  {
+    "id": "xlsx-file-viewer",
+    "name": "XLSX File Viewer",
+    "slug": "xlsx-file-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/xlsx-file-viewer",
+    "description": "Open and preview Excel .xlsx spreadsheets in your browser.",
+    "keywords": [
+      "xlsx",
+      "excel",
+      "spreadsheet",
+      "workbook",
+      "file viewer",
+      "sheet viewer",
+      "preview xlsx",
+      "open xlsx",
+      "csv copy",
+      "table viewer",
+      "local file"
+    ]
+  },
+  {
+    "id": "xml-viewer",
+    "name": "XML Viewer",
+    "slug": "xml-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/xml-viewer",
+    "description": "Open, format, and inspect XML files in your browser.",
+    "keywords": [
+      "xml",
+      "xml viewer",
+      "open xml",
+      "inspect xml",
+      "api response",
+      "sitemap",
+      "feed"
+    ]
+  },
+  {
+    "id": "yaml-viewer",
+    "name": "YAML Viewer",
+    "slug": "yaml-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/yaml-viewer",
+    "description": "Open, read, and inspect YAML files for configs, workflows, and data.",
+    "keywords": [
+      "yaml",
+      "yml",
+      "yaml viewer",
+      "config",
+      "workflow",
+      "docker compose"
+    ]
+  },
+  {
+    "id": "tsv-viewer",
+    "name": "TSV Viewer",
+    "slug": "tsv-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/tsv-viewer",
+    "description": "Open and inspect tab-separated TSV files in a clean table view.",
+    "keywords": [
+      "tsv",
+      "tab separated",
+      "table viewer",
+      "dataset",
+      "spreadsheet"
+    ]
+  },
+  {
+    "id": "txt-viewer",
+    "name": "TXT Viewer",
+    "slug": "txt-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/txt-viewer",
+    "description": "Open, search, and inspect plain text files in your browser.",
+    "keywords": [
+      "txt",
+      "text viewer",
+      "plain text",
+      "file viewer",
+      "search text"
+    ]
+  },
+  {
+    "id": "markdown-viewer",
+    "name": "Markdown Viewer",
+    "slug": "markdown-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/markdown-viewer",
+    "description": "Preview Markdown files and inspect raw Markdown text side by side.",
+    "keywords": [
+      "markdown",
+      "md",
+      "markdown viewer",
+      "preview markdown",
+      "readme"
+    ]
+  },
+  {
+    "id": "sql-viewer",
+    "name": "SQL Viewer",
+    "slug": "sql-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/sql-viewer",
+    "description": "Open SQL files, inspect queries, and review database scripts.",
+    "keywords": [
+      "sql",
+      "sql viewer",
+      "database",
+      "query",
+      "schema",
+      "migration"
+    ]
+  },
+  {
+    "id": "log-file-viewer",
+    "name": "Log File Viewer",
+    "slug": "log-file-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/log-file-viewer",
+    "description": "Open and inspect log files with search-friendly browser tools.",
+    "keywords": [
+      "log",
+      "log file",
+      "debug logs",
+      "server logs",
+      "error logs"
+    ]
+  },
+  {
+    "id": "ini-viewer",
+    "name": "INI Viewer",
+    "slug": "ini-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/ini-viewer",
+    "description": "Open and inspect INI configuration files in your browser.",
+    "keywords": [
+      "ini",
+      "ini viewer",
+      "config",
+      "settings",
+      "configuration file"
+    ]
+  },
+  {
+    "id": "config-file-viewer",
+    "name": "Config File Viewer",
+    "slug": "config-file-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/config-file-viewer",
+    "description": "Open and inspect common configuration files in a simple browser workspace.",
+    "keywords": [
+      "config",
+      "configuration",
+      "env",
+      "settings",
+      "file viewer"
+    ]
+  },
+  {
+    "id": "docx-viewer",
+    "name": "DOCX Viewer",
+    "slug": "docx-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/docx-viewer",
+    "description": "Open and preview DOCX document files in your browser.",
+    "keywords": [
+      "docx",
+      "word document",
+      "document viewer",
+      "preview docx"
+    ]
+  },
+  {
+    "id": "odt-viewer",
+    "name": "ODT Viewer",
+    "slug": "odt-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/odt-viewer",
+    "description": "Open and preview OpenDocument text files in your browser.",
+    "keywords": [
+      "odt",
+      "opendocument",
+      "document viewer",
+      "libreoffice"
+    ]
+  },
+  {
+    "id": "epub-viewer",
+    "name": "EPUB Viewer",
+    "slug": "epub-viewer",
+    "category": "File Viewers",
+    "url": "https://www.freeprotool.com/tools/epub-viewer",
+    "description": "Open and preview EPUB ebook files in your browser.",
+    "keywords": [
+      "epub",
+      "ebook",
+      "ebook viewer",
+      "reader"
+    ]
+  },
+  {
+    "id": "remove-images-from-pdf",
+    "name": "Remove Images from PDF",
+    "slug": "remove-images-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-images-from-pdf",
+    "description": "Permanently delete embedded images from a PDF locally in your browser while keeping text and vector content intact.",
+    "keywords": [
+      "remove images from pdf",
+      "remove images from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-images-from-pdf",
+    "name": "Extract Images from PDF",
+    "slug": "extract-images-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-images-from-pdf",
+    "description": "Find document images, preview thumbnails, and export selected images from a PDF document.",
+    "keywords": [
+      "extract images from pdf",
+      "extract images from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-links-from-pdf",
+    "name": "Remove Links from PDF",
+    "slug": "remove-links-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-links-from-pdf",
+    "description": "Find hyperlinks in a PDF document and remove selected links while keeping the file usable.",
+    "keywords": [
+      "remove links from pdf",
+      "remove links from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-links-from-pdf",
+    "name": "Extract Links from PDF",
+    "slug": "extract-links-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-links-from-pdf",
+    "description": "Find, inspect, copy, and export links from a PDF document.",
+    "keywords": [
+      "extract links from pdf",
+      "extract links from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-emails-from-pdf",
+    "name": "Extract Emails from PDF",
+    "slug": "extract-emails-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-emails-from-pdf",
+    "description": "Find email addresses in a PDF document and export them as clean text or CSV.",
+    "keywords": [
+      "extract emails from pdf",
+      "extract emails from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-emails-from-pdf",
+    "name": "Remove Emails from PDF",
+    "slug": "remove-emails-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-emails-from-pdf",
+    "description": "Find email addresses in a PDF document and remove or replace them before sharing.",
+    "keywords": [
+      "remove emails from pdf",
+      "remove emails from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-metadata-from-pdf",
+    "name": "Remove Metadata from PDF",
+    "slug": "remove-metadata-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-metadata-from-pdf",
+    "description": "View and remove hidden metadata from a PDF document before sharing.",
+    "keywords": [
+      "remove metadata from pdf",
+      "remove metadata from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-text-from-pdf",
+    "name": "Extract Text from PDF",
+    "slug": "extract-text-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-text-from-pdf",
+    "description": "Extract readable text from a PDF document and copy or download it.",
+    "keywords": [
+      "extract text from pdf",
+      "extract text from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-comments-from-pdf",
+    "name": "Remove Comments from PDF",
+    "slug": "remove-comments-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-comments-from-pdf",
+    "description": "Find comments, notes, and annotations in a PDF document and remove selected items.",
+    "keywords": [
+      "remove comments from pdf",
+      "remove comments from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "clean-pdf",
+    "name": "Clean PDF",
+    "slug": "clean-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/clean-pdf",
+    "description": "Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.",
+    "keywords": [
+      "clean pdf",
+      "clean pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-images-from-docx",
+    "name": "Remove Images from DOCX",
+    "slug": "remove-images-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-images-from-docx",
+    "description": "Find and remove images from a Word document locally in your browser.",
+    "keywords": [
+      "remove images from docx",
+      "remove images from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-images-from-docx",
+    "name": "Extract Images from DOCX",
+    "slug": "extract-images-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-images-from-docx",
+    "description": "Find document images, preview thumbnails, and export selected images from a Word document.",
+    "keywords": [
+      "extract images from docx",
+      "extract images from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-links-from-docx",
+    "name": "Remove Links from DOCX",
+    "slug": "remove-links-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-links-from-docx",
+    "description": "Find hyperlinks in a Word document and remove selected links while keeping the file usable.",
+    "keywords": [
+      "remove links from docx",
+      "remove links from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-links-from-docx",
+    "name": "Extract Links from DOCX",
+    "slug": "extract-links-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-links-from-docx",
+    "description": "Find, inspect, copy, and export links from a Word document.",
+    "keywords": [
+      "extract links from docx",
+      "extract links from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-emails-from-docx",
+    "name": "Extract Emails from DOCX",
+    "slug": "extract-emails-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-emails-from-docx",
+    "description": "Find email addresses in a Word document and export them as clean text or CSV.",
+    "keywords": [
+      "extract emails from docx",
+      "extract emails from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-emails-from-docx",
+    "name": "Remove Emails from DOCX",
+    "slug": "remove-emails-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-emails-from-docx",
+    "description": "Find email addresses in a Word document and remove or replace them before sharing.",
+    "keywords": [
+      "remove emails from docx",
+      "remove emails from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-metadata-from-docx",
+    "name": "Remove Metadata from DOCX",
+    "slug": "remove-metadata-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-metadata-from-docx",
+    "description": "View and remove hidden metadata from a Word document before sharing.",
+    "keywords": [
+      "remove metadata from docx",
+      "remove metadata from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-text-from-docx",
+    "name": "Extract Text from DOCX",
+    "slug": "extract-text-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-text-from-docx",
+    "description": "Extract readable text from a Word document and copy or download it.",
+    "keywords": [
+      "extract text from docx",
+      "extract text from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-comments-from-docx",
+    "name": "Remove Comments from DOCX",
+    "slug": "remove-comments-from-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-comments-from-docx",
+    "description": "Find comments, notes, and annotations in a Word document and remove selected items.",
+    "keywords": [
+      "remove comments from docx",
+      "remove comments from docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "clean-docx",
+    "name": "Clean DOCX",
+    "slug": "clean-docx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/clean-docx",
+    "description": "Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.",
+    "keywords": [
+      "clean docx",
+      "clean docx",
+      "docx",
+      "docx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-images-from-pptx",
+    "name": "Remove Images from PPTX",
+    "slug": "remove-images-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-images-from-pptx",
+    "description": "Find and remove images from a PowerPoint presentation locally in your browser.",
+    "keywords": [
+      "remove images from pptx",
+      "remove images from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-images-from-pptx",
+    "name": "Extract Images from PPTX",
+    "slug": "extract-images-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-images-from-pptx",
+    "description": "Find document images, preview thumbnails, and export selected images from a PowerPoint presentation.",
+    "keywords": [
+      "extract images from pptx",
+      "extract images from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-links-from-pptx",
+    "name": "Remove Links from PPTX",
+    "slug": "remove-links-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-links-from-pptx",
+    "description": "Find hyperlinks in a PowerPoint presentation and remove selected links while keeping the file usable.",
+    "keywords": [
+      "remove links from pptx",
+      "remove links from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-links-from-pptx",
+    "name": "Extract Links from PPTX",
+    "slug": "extract-links-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-links-from-pptx",
+    "description": "Find, inspect, copy, and export links from a PowerPoint presentation.",
+    "keywords": [
+      "extract links from pptx",
+      "extract links from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-emails-from-pptx",
+    "name": "Extract Emails from PPTX",
+    "slug": "extract-emails-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-emails-from-pptx",
+    "description": "Find email addresses in a PowerPoint presentation and export them as clean text or CSV.",
+    "keywords": [
+      "extract emails from pptx",
+      "extract emails from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-emails-from-pptx",
+    "name": "Remove Emails from PPTX",
+    "slug": "remove-emails-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-emails-from-pptx",
+    "description": "Find email addresses in a PowerPoint presentation and remove or replace them before sharing.",
+    "keywords": [
+      "remove emails from pptx",
+      "remove emails from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-metadata-from-pptx",
+    "name": "Remove Metadata from PPTX",
+    "slug": "remove-metadata-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-metadata-from-pptx",
+    "description": "View and remove hidden metadata from a PowerPoint presentation before sharing.",
+    "keywords": [
+      "remove metadata from pptx",
+      "remove metadata from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-text-from-pptx",
+    "name": "Extract Text from PPTX",
+    "slug": "extract-text-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-text-from-pptx",
+    "description": "Extract readable text from a PowerPoint presentation and copy or download it.",
+    "keywords": [
+      "extract text from pptx",
+      "extract text from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-comments-from-pptx",
+    "name": "Remove Comments from PPTX",
+    "slug": "remove-comments-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-comments-from-pptx",
+    "description": "Find comments, notes, and annotations in a PowerPoint presentation and remove selected items.",
+    "keywords": [
+      "remove comments from pptx",
+      "remove comments from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "clean-pptx",
+    "name": "Clean PPTX",
+    "slug": "clean-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/clean-pptx",
+    "description": "Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.",
+    "keywords": [
+      "clean pptx",
+      "clean pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-images-from-xlsx",
+    "name": "Remove Images from XLSX",
+    "slug": "remove-images-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-images-from-xlsx",
+    "description": "Find and remove images from a Excel spreadsheet locally in your browser.",
+    "keywords": [
+      "remove images from xlsx",
+      "remove images from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-images-from-xlsx",
+    "name": "Extract Images from XLSX",
+    "slug": "extract-images-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-images-from-xlsx",
+    "description": "Find document images, preview thumbnails, and export selected images from a Excel spreadsheet.",
+    "keywords": [
+      "extract images from xlsx",
+      "extract images from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-links-from-xlsx",
+    "name": "Remove Links from XLSX",
+    "slug": "remove-links-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-links-from-xlsx",
+    "description": "Find hyperlinks in a Excel spreadsheet and remove selected links while keeping the file usable.",
+    "keywords": [
+      "remove links from xlsx",
+      "remove links from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-links-from-xlsx",
+    "name": "Extract Links from XLSX",
+    "slug": "extract-links-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-links-from-xlsx",
+    "description": "Find, inspect, copy, and export links from a Excel spreadsheet.",
+    "keywords": [
+      "extract links from xlsx",
+      "extract links from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-emails-from-xlsx",
+    "name": "Extract Emails from XLSX",
+    "slug": "extract-emails-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-emails-from-xlsx",
+    "description": "Find email addresses in a Excel spreadsheet and export them as clean text or CSV.",
+    "keywords": [
+      "extract emails from xlsx",
+      "extract emails from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-emails-from-xlsx",
+    "name": "Remove Emails from XLSX",
+    "slug": "remove-emails-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-emails-from-xlsx",
+    "description": "Find email addresses in a Excel spreadsheet and remove or replace them before sharing.",
+    "keywords": [
+      "remove emails from xlsx",
+      "remove emails from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-metadata-from-xlsx",
+    "name": "Remove Metadata from XLSX",
+    "slug": "remove-metadata-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-metadata-from-xlsx",
+    "description": "View and remove hidden metadata from a Excel spreadsheet before sharing.",
+    "keywords": [
+      "remove metadata from xlsx",
+      "remove metadata from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-text-from-xlsx",
+    "name": "Extract Text from XLSX",
+    "slug": "extract-text-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-text-from-xlsx",
+    "description": "Extract readable text from a Excel spreadsheet and copy or download it.",
+    "keywords": [
+      "extract text from xlsx",
+      "extract text from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-comments-from-xlsx",
+    "name": "Remove Comments from XLSX",
+    "slug": "remove-comments-from-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-comments-from-xlsx",
+    "description": "Find comments, notes, and annotations in a Excel spreadsheet and remove selected items.",
+    "keywords": [
+      "remove comments from xlsx",
+      "remove comments from xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "clean-xlsx",
+    "name": "Clean XLSX",
+    "slug": "clean-xlsx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/clean-xlsx",
+    "description": "Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.",
+    "keywords": [
+      "clean xlsx",
+      "clean xlsx",
+      "xlsx",
+      "xlsx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-pages-from-pdf",
+    "name": "Remove Pages from PDF",
+    "slug": "remove-pages-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-pages-from-pdf",
+    "description": "Delete selected pages from a PDF and download a cleaned copy.",
+    "keywords": [
+      "remove pages from pdf",
+      "remove pages from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-pages-from-pdf",
+    "name": "Extract Pages from PDF",
+    "slug": "extract-pages-from-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-pages-from-pdf",
+    "description": "Select PDF pages and save them as a separate document.",
+    "keywords": [
+      "extract pages from pdf",
+      "extract pages from pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "split-pdf",
+    "name": "Split PDF",
+    "slug": "split-pdf",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/split-pdf",
+    "description": "Split a PDF into smaller files by page range or selection.",
+    "keywords": [
+      "split pdf",
+      "split pdf",
+      "pdf",
+      "pdf",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "remove-slides-from-pptx",
+    "name": "Remove Slides from PPTX",
+    "slug": "remove-slides-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/remove-slides-from-pptx",
+    "description": "Delete selected slides from a PowerPoint presentation.",
+    "keywords": [
+      "remove slides from pptx",
+      "remove slides from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "extract-slides-from-pptx",
+    "name": "Extract Slides from PPTX",
+    "slug": "extract-slides-from-pptx",
+    "category": "Document Tools",
+    "url": "https://www.freeprotool.com/tools/extract-slides-from-pptx",
+    "description": "Select slides from a PowerPoint presentation and export a smaller deck.",
+    "keywords": [
+      "extract slides from pptx",
+      "extract slides from pptx",
+      "pptx",
+      "pptx",
+      "document toolkit",
+      "document cleaner",
+      "extract document content",
+      "remove document content",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "rotate-pdf",
+    "name": "Rotate PDF",
+    "slug": "rotate-pdf",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/rotate-pdf",
+    "description": "Rotate every page in a PDF locally in your browser and download a new copy.",
+    "keywords": [
+      "rotate pdf",
+      "rotate pdf",
+      "pdf",
+      "rotate",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "rotate-pdf-pages",
+    "name": "Rotate PDF Pages",
+    "slug": "rotate-pdf-pages",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/rotate-pdf-pages",
+    "description": "Rotate PDF pages 90 or 180 degrees locally and save the corrected file.",
+    "keywords": [
+      "rotate pdf pages",
+      "rotate pdf pages",
+      "pdf",
+      "rotate",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "flip-pdf",
+    "name": "Flip PDF",
+    "slug": "flip-pdf",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/flip-pdf",
+    "description": "Flip PDF pages horizontally or vertically locally in your browser and download a new copy.",
+    "keywords": [
+      "flip pdf",
+      "flip pdf",
+      "pdf",
+      "flip",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "mirror-pdf",
+    "name": "Mirror PDF",
+    "slug": "mirror-pdf",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/mirror-pdf",
+    "description": "Mirror PDF pages left-to-right or top-to-bottom locally in your browser.",
+    "keywords": [
+      "mirror pdf",
+      "mirror pdf",
+      "pdf",
+      "mirror",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "rotate-svg",
+    "name": "Rotate SVG",
+    "slug": "rotate-svg",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/rotate-svg",
+    "description": "Rotate SVG artwork locally while preserving editable vector markup.",
+    "keywords": [
+      "rotate svg",
+      "rotate svg",
+      "svg",
+      "rotate",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "flip-svg",
+    "name": "Flip SVG",
+    "slug": "flip-svg",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/flip-svg",
+    "description": "Flip SVG artwork horizontally or vertically in your browser.",
+    "keywords": [
+      "flip svg",
+      "flip svg",
+      "svg",
+      "flip",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "mirror-svg",
+    "name": "Mirror SVG",
+    "slug": "mirror-svg",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/mirror-svg",
+    "description": "Mirror SVG artwork locally and download a transformed SVG file.",
+    "keywords": [
+      "mirror svg",
+      "mirror svg",
+      "svg",
+      "mirror",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "rotate-png",
+    "name": "Rotate PNG",
+    "slug": "rotate-png",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/rotate-png",
+    "description": "Rotate a PNG image locally and download the transformed image.",
+    "keywords": [
+      "rotate png",
+      "rotate png",
+      "png",
+      "rotate",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "flip-png",
+    "name": "Flip PNG",
+    "slug": "flip-png",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/flip-png",
+    "description": "Flip a PNG image horizontally or vertically in your browser.",
+    "keywords": [
+      "flip png",
+      "flip png",
+      "png",
+      "flip",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "mirror-png",
+    "name": "Mirror PNG",
+    "slug": "mirror-png",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/mirror-png",
+    "description": "Mirror a PNG image locally and download the result.",
+    "keywords": [
+      "mirror png",
+      "mirror png",
+      "png",
+      "mirror",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "rotate-jpg",
+    "name": "Rotate JPG",
+    "slug": "rotate-jpg",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/rotate-jpg",
+    "description": "Rotate a JPG or JPEG image locally and download a corrected image.",
+    "keywords": [
+      "rotate jpg",
+      "rotate jpg",
+      "jpg",
+      "rotate",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "flip-jpg",
+    "name": "Flip JPG",
+    "slug": "flip-jpg",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/flip-jpg",
+    "description": "Flip a JPG or JPEG image horizontally or vertically in your browser.",
+    "keywords": [
+      "flip jpg",
+      "flip jpg",
+      "jpg",
+      "flip",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "mirror-jpg",
+    "name": "Mirror JPG",
+    "slug": "mirror-jpg",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/mirror-jpg",
+    "description": "Mirror a JPG or JPEG image locally and download the result.",
+    "keywords": [
+      "mirror jpg",
+      "mirror jpg",
+      "jpg",
+      "mirror",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "rotate-webp",
+    "name": "Rotate WEBP",
+    "slug": "rotate-webp",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/rotate-webp",
+    "description": "Rotate a WEBP image locally and download a transformed image.",
+    "keywords": [
+      "rotate webp",
+      "rotate webp",
+      "webp",
+      "rotate",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "flip-webp",
+    "name": "Flip WEBP",
+    "slug": "flip-webp",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/flip-webp",
+    "description": "Flip a WEBP image horizontally or vertically in your browser.",
+    "keywords": [
+      "flip webp",
+      "flip webp",
+      "webp",
+      "flip",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "mirror-webp",
+    "name": "Mirror WEBP",
+    "slug": "mirror-webp",
+    "category": "Transform Tools",
+    "url": "https://www.freeprotool.com/tools/mirror-webp",
+    "description": "Mirror a WEBP image locally and download the result.",
+    "keywords": [
+      "mirror webp",
+      "mirror webp",
+      "webp",
+      "mirror",
+      "rotate image",
+      "flip image",
+      "mirror image",
+      "transform toolkit",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-png-to-jpg",
+    "name": "Convert PNG to JPG",
+    "slug": "convert-png-to-jpg",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-png-to-jpg",
+    "description": "Convert PNG files to JPG locally in your browser and download a new image.",
+    "keywords": [
+      "convert png to jpg",
+      "convert png to jpg",
+      "png",
+      "jpg",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-png-to-webp",
+    "name": "Convert PNG to WEBP",
+    "slug": "convert-png-to-webp",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-png-to-webp",
+    "description": "Convert PNG files to WEBP locally in your browser and download a new image.",
+    "keywords": [
+      "convert png to webp",
+      "convert png to webp",
+      "png",
+      "webp",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-jpg-to-png",
+    "name": "Convert JPG to PNG",
+    "slug": "convert-jpg-to-png",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-jpg-to-png",
+    "description": "Convert JPG files to PNG locally in your browser and download a new image.",
+    "keywords": [
+      "convert jpg to png",
+      "convert jpg to png",
+      "jpg",
+      "png",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-jpg-to-webp",
+    "name": "Convert JPG to WEBP",
+    "slug": "convert-jpg-to-webp",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-jpg-to-webp",
+    "description": "Convert JPG files to WEBP locally in your browser and download a new image.",
+    "keywords": [
+      "convert jpg to webp",
+      "convert jpg to webp",
+      "jpg",
+      "webp",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-webp-to-png",
+    "name": "Convert WEBP to PNG",
+    "slug": "convert-webp-to-png",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-webp-to-png",
+    "description": "Convert WEBP files to PNG locally in your browser and download a new image.",
+    "keywords": [
+      "convert webp to png",
+      "convert webp to png",
+      "webp",
+      "png",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-webp-to-jpg",
+    "name": "Convert WEBP to JPG",
+    "slug": "convert-webp-to-jpg",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-webp-to-jpg",
+    "description": "Convert WEBP files to JPG locally in your browser and download a new image.",
+    "keywords": [
+      "convert webp to jpg",
+      "convert webp to jpg",
+      "webp",
+      "jpg",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-svg-to-png",
+    "name": "Convert SVG to PNG",
+    "slug": "convert-svg-to-png",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-svg-to-png",
+    "description": "Convert SVG files to PNG locally in your browser and download a new image.",
+    "keywords": [
+      "convert svg to png",
+      "convert svg to png",
+      "svg",
+      "png",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-svg-to-jpg",
+    "name": "Convert SVG to JPG",
+    "slug": "convert-svg-to-jpg",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-svg-to-jpg",
+    "description": "Convert SVG files to JPG locally in your browser and download a new image.",
+    "keywords": [
+      "convert svg to jpg",
+      "convert svg to jpg",
+      "svg",
+      "jpg",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "convert-svg-to-webp",
+    "name": "Convert SVG to WEBP",
+    "slug": "convert-svg-to-webp",
+    "category": "Image Conversion Tools",
+    "url": "https://www.freeprotool.com/tools/convert-svg-to-webp",
+    "description": "Convert SVG files to WEBP locally in your browser and download a new image.",
+    "keywords": [
+      "convert svg to webp",
+      "convert svg to webp",
+      "svg",
+      "webp",
+      "image converter",
+      "convert image",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-files",
+    "name": "Merge Files",
+    "slug": "merge-files",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-files",
+    "description": "Combine multiple same-format files into one downloadable file locally in your browser.",
+    "keywords": [
+      "merge files",
+      "merge files",
+      "pdf, csv, tsv, txt, json, xml, yaml, markdown, sql, log, ini, or conf",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-pdf",
     "name": "Merge PDF",
     "slug": "merge-pdf",
-    "category": "PDF Tools",
-    "url": "https://freeprotool.com/tools/merge-pdf",
-    "description": "Merge multiple PDF files into one PDF in your browser.",
-    "inputFormats": ["pdf"],
-    "outputFormats": ["pdf"],
-    "runsLocally": true,
-    "keywords": ["merge pdf", "combine pdf", "join pdf files"]
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-pdf",
+    "description": "Merge multiple PDF files page-by-page in upload order and download one combined PDF.",
+    "keywords": [
+      "merge pdf",
+      "merge pdf",
+      "pdf",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
   },
   {
-    "name": "SVG Optimizer",
-    "slug": "svg-optimizer",
-    "category": "SVG Tools",
-    "url": "https://freeprotool.com/tools/svg-optimizer",
-    "description": "Optimize, minify, and clean SVG files.",
-    "inputFormats": ["svg"],
-    "outputFormats": ["svg"],
-    "runsLocally": true,
-    "keywords": ["optimize svg", "minify svg", "reduce svg file size"]
+    "id": "merge-csv",
+    "name": "Merge CSV",
+    "slug": "merge-csv",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-csv",
+    "description": "Merge CSV files by keeping the first header and appending rows from later files.",
+    "keywords": [
+      "merge csv",
+      "merge csv",
+      "csv",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
   },
   {
+    "id": "merge-tsv",
+    "name": "Merge TSV",
+    "slug": "merge-tsv",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-tsv",
+    "description": "Merge TSV files by keeping the first header and appending rows from later files.",
+    "keywords": [
+      "merge tsv",
+      "merge tsv",
+      "tsv",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-txt",
+    "name": "Merge TXT",
+    "slug": "merge-txt",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-txt",
+    "description": "Merge plain text files in your chosen order with clean spacing between files.",
+    "keywords": [
+      "merge txt",
+      "merge txt",
+      "txt",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-json",
+    "name": "Merge JSON",
+    "slug": "merge-json",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-json",
+    "description": "Merge JSON arrays or JSON objects into one pretty-printed JSON file.",
+    "keywords": [
+      "merge json",
+      "merge json",
+      "json",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-xml",
+    "name": "Merge XML",
+    "slug": "merge-xml",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-xml",
+    "description": "Merge XML documents by wrapping each document root inside one mergedDocuments root.",
+    "keywords": [
+      "merge xml",
+      "merge xml",
+      "xml",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-yaml",
+    "name": "Merge YAML",
+    "slug": "merge-yaml",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-yaml",
+    "description": "Merge YAML files as a safe multi-document YAML stream separated by document markers.",
+    "keywords": [
+      "merge yaml",
+      "merge yaml",
+      "yaml",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-markdown",
+    "name": "Merge Markdown",
+    "slug": "merge-markdown",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-markdown",
+    "description": "Merge Markdown files in order with clean spacing between each document.",
+    "keywords": [
+      "merge markdown",
+      "merge markdown",
+      "markdown",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-sql",
+    "name": "Merge SQL",
+    "slug": "merge-sql",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-sql",
+    "description": "Merge SQL files in order while preserving each script's original content.",
+    "keywords": [
+      "merge sql",
+      "merge sql",
+      "sql",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-log",
+    "name": "Merge LOG",
+    "slug": "merge-log",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-log",
+    "description": "Merge log files chronologically or manually by arranging files before export.",
+    "keywords": [
+      "merge log",
+      "merge log",
+      "log",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-ini",
+    "name": "Merge INI",
+    "slug": "merge-ini",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-ini",
+    "description": "Merge INI configuration files in order with clean separators between files.",
+    "keywords": [
+      "merge ini",
+      "merge ini",
+      "ini",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "merge-conf",
+    "name": "Merge CONF",
+    "slug": "merge-conf",
+    "category": "Merge Tools",
+    "url": "https://www.freeprotool.com/tools/merge-conf",
+    "description": "Merge CONF configuration files in order while preserving original text.",
+    "keywords": [
+      "merge conf",
+      "merge conf",
+      "conf",
+      "merge files",
+      "combine files",
+      "local browser tool"
+    ]
+  },
+  {
+    "id": "json-formatter",
     "name": "JSON Formatter",
     "slug": "json-formatter",
-    "category": "Developer Tools",
-    "url": "https://freeprotool.com/tools/json-formatter",
-    "description": "Format, validate, and clean JSON text.",
-    "inputFormats": ["json", "txt"],
-    "outputFormats": ["json", "txt"],
-    "runsLocally": true,
-    "keywords": ["json formatter", "format json", "json validator"]
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/json-formatter",
+    "description": "Format, pretty-print, and clean JSON data for easier reading.",
+    "keywords": [
+      "json formatter",
+      "pretty json",
+      "format json",
+      "beautify json",
+      "developer tools"
+    ]
+  },
+  {
+    "id": "json-validator",
+    "name": "JSON Validator",
+    "slug": "json-validator",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/json-validator",
+    "description": "Validate JSON syntax and find common structure errors quickly.",
+    "keywords": [
+      "json validator",
+      "validate json",
+      "json syntax",
+      "json error",
+      "api response"
+    ]
+  },
+  {
+    "id": "csv-to-json",
+    "name": "CSV to JSON",
+    "slug": "csv-to-json",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/csv-to-json",
+    "description": "Convert CSV table data into JSON arrays and objects.",
+    "keywords": [
+      "csv to json",
+      "convert csv",
+      "table to json",
+      "dataset converter"
+    ]
+  },
+  {
+    "id": "json-to-csv",
+    "name": "JSON to CSV",
+    "slug": "json-to-csv",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/json-to-csv",
+    "description": "Convert JSON arrays and objects into CSV table data.",
+    "keywords": [
+      "json to csv",
+      "convert json",
+      "export csv",
+      "data converter"
+    ]
+  },
+  {
+    "id": "xml-formatter",
+    "name": "XML Formatter",
+    "slug": "xml-formatter",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/xml-formatter",
+    "description": "Format and pretty-print XML documents for easier reading.",
+    "keywords": [
+      "xml formatter",
+      "format xml",
+      "pretty xml",
+      "beautify xml"
+    ]
+  },
+  {
+    "id": "json-corruptor",
+    "name": "JSON Corruptor",
+    "slug": "json-corruptor",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/json-corruptor",
+    "description": "Generate broken or noisy JSON samples for parser and error handling tests.",
+    "keywords": [
+      "json corruptor",
+      "broken json",
+      "dirty data",
+      "parser testing",
+      "api testing"
+    ]
+  },
+  {
+    "id": "csv-corruptor",
+    "name": "CSV Corruptor",
+    "slug": "csv-corruptor",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/csv-corruptor",
+    "description": "Generate messy CSV data for import, parser, and validation testing.",
+    "keywords": [
+      "csv corruptor",
+      "dirty csv",
+      "messy data",
+      "parser testing",
+      "dataset"
+    ]
+  },
+  {
+    "id": "api-response-corruptor",
+    "name": "API Response Corruptor",
+    "slug": "api-response-corruptor",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/api-response-corruptor",
+    "description": "Create malformed API response samples for frontend and backend testing.",
+    "keywords": [
+      "api response",
+      "corrupt api",
+      "mock api",
+      "error handling",
+      "testing"
+    ]
+  },
+  {
+    "id": "dataset-corruptor",
+    "name": "Dataset Corruptor",
+    "slug": "dataset-corruptor",
+    "category": "Data Tools",
+    "url": "https://www.freeprotool.com/tools/dataset-corruptor",
+    "description": "Add controlled noise, missing values, and bad rows to datasets for testing.",
+    "keywords": [
+      "dataset corruptor",
+      "dirty dataset",
+      "missing values",
+      "bad rows",
+      "data testing"
+    ]
   }
 ]

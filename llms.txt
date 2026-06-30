@@ -1,25 +1,189 @@
-# FreeProTool
+﻿# FreeProTool
 
-FreeProTool is a free browser-based toolkit for PDFs, images, SVGs, documents, data files, and developer utilities.
+> Free, browser-based tools for developers, designers, and professionals: convert, clean, view, transform, and merge files, plus realistic downloadable sample data sets for testing. Client-side tools process files locally in the browser and never upload them.
 
-Main site:
-https://freeprotool.com
+FreeProTool offers 124 free online utilities organized by category, plus 9 multi-format sample data sets. This file is a roadmap of the site for language models and AI agents. Every tool has its own page with a "What this tool does", "How it works", "When to use", and FAQ section.
 
-Public tool catalog:
-https://github.com/laramie371/Free-Pro-Tool/blob/main/tools.json
+## Key pages
 
-Important pages:
-https://freeprotool.com/tools
-https://freeprotool.com/pdf-tools
-https://freeprotool.com/image-tools
-https://freeprotool.com/svg-tools
-https://freeprotool.com/document-tools
-https://freeprotool.com/data-tools
+- [All tools](https://www.freeprotool.com/tools): Full index of every tool, grouped by category.
+- [Sample data sets](https://www.freeprotool.com/sample-data): Download realistic ZIP datasets for testing.
+- [About](https://www.freeprotool.com/about): About FreeProTool.
 
-GitHub issue tracker:
-https://github.com/laramie371/Free-Pro-Tool/issues
+## SVG Tools
 
-Notes:
-- The production website source code is private.
-- This repository contains public documentation, examples, metadata, and safe utility code.
-- Many tools are designed to run locally in the browser where possible.
+Clean, convert, preview, and edit SVG files.
+
+- [Remove White from SVG](https://www.freeprotool.com/tools/remove-white-svg): Make visible white areas transparent and download a clean PNG or SVG wrapper.
+- [Remove Black from SVG](https://www.freeprotool.com/tools/remove-black-svg): Make visible black areas transparent and download a clean PNG or SVG wrapper.
+- [SVG to PNG](https://www.freeprotool.com/tools/svg-to-png): Convert SVG files to clean PNG images online.
+- [Remove Color From SVG](https://www.freeprotool.com/tools/remove-color-from-svg): Remove a selected color from SVG artwork and make it transparent.
+- [Auto Crop SVG](https://www.freeprotool.com/tools/auto-crop-svg): Crop extra blank space around SVG artwork automatically.
+- [Invert SVG Colors](https://www.freeprotool.com/tools/invert-svg-colors): Invert SVG colors for contrast, dark-mode assets, and quick design tests.
+- [Optimize SVG](https://www.freeprotool.com/tools/optimize-svg): Safely clean and minify SVG markup locally in your browser while preserving vector artwork.
+- [SVG Viewer](https://www.freeprotool.com/tools/svg-viewer): Open, preview, and inspect SVG files directly in your browser.
+- [Minify SVG](https://www.freeprotool.com/tools/minify-svg): Remove comments and unnecessary whitespace from SVG files locally in your browser.
+- [SVG Color Replacer](https://www.freeprotool.com/tools/svg-color-replacer): Find and replace SVG colors using hex values and quick color controls.
+- [Reduce SVG File Size](https://www.freeprotool.com/tools/reduce-svg-file-size): Reduce SVG file size with safe metadata cleanup and minification in your browser.
+- [Remove Metadata from SVG](https://www.freeprotool.com/tools/remove-metadata-from-svg): Remove SVG metadata, descriptions, comments, and editor traces locally before sharing.
+
+## Text Tools
+
+Generate, alter, and clean text for testing and file workflows.
+
+- [Random Misspellings Generator](https://www.freeprotool.com/tools/random-misspellings-generator): Generate typo and misspelling variations from clean text.
+- [Random Character Inserter](https://www.freeprotool.com/tools/random-character-inserter): Insert random letters, numbers, or symbols into text for dirty datasets.
+- [OCR Error Generator](https://www.freeprotool.com/tools/ocr-error-generator): Generate realistic OCR-style text errors for dirty datasets and document parser testing.
+- [Keyboard Typo Generator](https://www.freeprotool.com/tools/keyboard-typo-generator): Generate realistic keyboard-adjacent typos for dirty text and testing data.
+- [OCR Cleanup Tool](https://www.freeprotool.com/tools/ocr-cleanup-tool): Clean common OCR mistakes from copied scans and extracted document text.
+
+## File Viewers
+
+Open, inspect, and preview common professional file formats.
+
+- [JSON Viewer](https://www.freeprotool.com/tools/json-viewer): Open, validate, format, minify, and inspect JSON files in your browser.
+- [CSV Viewer](https://www.freeprotool.com/tools/csv-viewer): Open, preview, search, and inspect CSV files in your browser.
+- [XLSX File Viewer](https://www.freeprotool.com/tools/xlsx-file-viewer): Open and preview Excel .xlsx spreadsheets in your browser.
+- [XML Viewer](https://www.freeprotool.com/tools/xml-viewer): Open, format, and inspect XML files in your browser.
+- [YAML Viewer](https://www.freeprotool.com/tools/yaml-viewer): Open, read, and inspect YAML files for configs, workflows, and data.
+- [TSV Viewer](https://www.freeprotool.com/tools/tsv-viewer): Open and inspect tab-separated TSV files in a clean table view.
+- [TXT Viewer](https://www.freeprotool.com/tools/txt-viewer): Open, search, and inspect plain text files in your browser.
+- [Markdown Viewer](https://www.freeprotool.com/tools/markdown-viewer): Preview Markdown files and inspect raw Markdown text side by side.
+- [SQL Viewer](https://www.freeprotool.com/tools/sql-viewer): Open SQL files, inspect queries, and review database scripts.
+- [Log File Viewer](https://www.freeprotool.com/tools/log-file-viewer): Open and inspect log files with search-friendly browser tools.
+- [INI Viewer](https://www.freeprotool.com/tools/ini-viewer): Open and inspect INI configuration files in your browser.
+- [Config File Viewer](https://www.freeprotool.com/tools/config-file-viewer): Open and inspect common configuration files in a simple browser workspace.
+- [DOCX Viewer](https://www.freeprotool.com/tools/docx-viewer): Open and preview DOCX document files in your browser.
+- [ODT Viewer](https://www.freeprotool.com/tools/odt-viewer): Open and preview OpenDocument text files in your browser.
+- [EPUB Viewer](https://www.freeprotool.com/tools/epub-viewer): Open and preview EPUB ebook files in your browser.
+
+## Document Tools
+
+Inspect, clean, extract, and manage PDF, DOCX, PPTX, and XLSX files.
+
+- [Remove Images from PDF](https://www.freeprotool.com/tools/remove-images-from-pdf): Permanently delete embedded images from a PDF locally in your browser while keeping text and vector content intact.
+- [Extract Images from PDF](https://www.freeprotool.com/tools/extract-images-from-pdf): Find document images, preview thumbnails, and export selected images from a PDF document.
+- [Remove Links from PDF](https://www.freeprotool.com/tools/remove-links-from-pdf): Find hyperlinks in a PDF document and remove selected links while keeping the file usable.
+- [Extract Links from PDF](https://www.freeprotool.com/tools/extract-links-from-pdf): Find, inspect, copy, and export links from a PDF document.
+- [Extract Emails from PDF](https://www.freeprotool.com/tools/extract-emails-from-pdf): Find email addresses in a PDF document and export them as clean text or CSV.
+- [Remove Emails from PDF](https://www.freeprotool.com/tools/remove-emails-from-pdf): Find email addresses in a PDF document and remove or replace them before sharing.
+- [Remove Metadata from PDF](https://www.freeprotool.com/tools/remove-metadata-from-pdf): View and remove hidden metadata from a PDF document before sharing.
+- [Extract Text from PDF](https://www.freeprotool.com/tools/extract-text-from-pdf): Extract readable text from a PDF document and copy or download it.
+- [Remove Comments from PDF](https://www.freeprotool.com/tools/remove-comments-from-pdf): Find comments, notes, and annotations in a PDF document and remove selected items.
+- [Clean PDF](https://www.freeprotool.com/tools/clean-pdf): Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.
+- [Remove Images from DOCX](https://www.freeprotool.com/tools/remove-images-from-docx): Find and remove images from a Word document locally in your browser.
+- [Extract Images from DOCX](https://www.freeprotool.com/tools/extract-images-from-docx): Find document images, preview thumbnails, and export selected images from a Word document.
+- [Remove Links from DOCX](https://www.freeprotool.com/tools/remove-links-from-docx): Find hyperlinks in a Word document and remove selected links while keeping the file usable.
+- [Extract Links from DOCX](https://www.freeprotool.com/tools/extract-links-from-docx): Find, inspect, copy, and export links from a Word document.
+- [Extract Emails from DOCX](https://www.freeprotool.com/tools/extract-emails-from-docx): Find email addresses in a Word document and export them as clean text or CSV.
+- [Remove Emails from DOCX](https://www.freeprotool.com/tools/remove-emails-from-docx): Find email addresses in a Word document and remove or replace them before sharing.
+- [Remove Metadata from DOCX](https://www.freeprotool.com/tools/remove-metadata-from-docx): View and remove hidden metadata from a Word document before sharing.
+- [Extract Text from DOCX](https://www.freeprotool.com/tools/extract-text-from-docx): Extract readable text from a Word document and copy or download it.
+- [Remove Comments from DOCX](https://www.freeprotool.com/tools/remove-comments-from-docx): Find comments, notes, and annotations in a Word document and remove selected items.
+- [Clean DOCX](https://www.freeprotool.com/tools/clean-docx): Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.
+- [Remove Images from PPTX](https://www.freeprotool.com/tools/remove-images-from-pptx): Find and remove images from a PowerPoint presentation locally in your browser.
+- [Extract Images from PPTX](https://www.freeprotool.com/tools/extract-images-from-pptx): Find document images, preview thumbnails, and export selected images from a PowerPoint presentation.
+- [Remove Links from PPTX](https://www.freeprotool.com/tools/remove-links-from-pptx): Find hyperlinks in a PowerPoint presentation and remove selected links while keeping the file usable.
+- [Extract Links from PPTX](https://www.freeprotool.com/tools/extract-links-from-pptx): Find, inspect, copy, and export links from a PowerPoint presentation.
+- [Extract Emails from PPTX](https://www.freeprotool.com/tools/extract-emails-from-pptx): Find email addresses in a PowerPoint presentation and export them as clean text or CSV.
+- [Remove Emails from PPTX](https://www.freeprotool.com/tools/remove-emails-from-pptx): Find email addresses in a PowerPoint presentation and remove or replace them before sharing.
+- [Remove Metadata from PPTX](https://www.freeprotool.com/tools/remove-metadata-from-pptx): View and remove hidden metadata from a PowerPoint presentation before sharing.
+- [Extract Text from PPTX](https://www.freeprotool.com/tools/extract-text-from-pptx): Extract readable text from a PowerPoint presentation and copy or download it.
+- [Remove Comments from PPTX](https://www.freeprotool.com/tools/remove-comments-from-pptx): Find comments, notes, and annotations in a PowerPoint presentation and remove selected items.
+- [Clean PPTX](https://www.freeprotool.com/tools/clean-pptx): Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.
+- [Remove Images from XLSX](https://www.freeprotool.com/tools/remove-images-from-xlsx): Find and remove images from a Excel spreadsheet locally in your browser.
+- [Extract Images from XLSX](https://www.freeprotool.com/tools/extract-images-from-xlsx): Find document images, preview thumbnails, and export selected images from a Excel spreadsheet.
+- [Remove Links from XLSX](https://www.freeprotool.com/tools/remove-links-from-xlsx): Find hyperlinks in a Excel spreadsheet and remove selected links while keeping the file usable.
+- [Extract Links from XLSX](https://www.freeprotool.com/tools/extract-links-from-xlsx): Find, inspect, copy, and export links from a Excel spreadsheet.
+- [Extract Emails from XLSX](https://www.freeprotool.com/tools/extract-emails-from-xlsx): Find email addresses in a Excel spreadsheet and export them as clean text or CSV.
+- [Remove Emails from XLSX](https://www.freeprotool.com/tools/remove-emails-from-xlsx): Find email addresses in a Excel spreadsheet and remove or replace them before sharing.
+- [Remove Metadata from XLSX](https://www.freeprotool.com/tools/remove-metadata-from-xlsx): View and remove hidden metadata from a Excel spreadsheet before sharing.
+- [Extract Text from XLSX](https://www.freeprotool.com/tools/extract-text-from-xlsx): Extract readable text from a Excel spreadsheet and copy or download it.
+- [Remove Comments from XLSX](https://www.freeprotool.com/tools/remove-comments-from-xlsx): Find comments, notes, and annotations in a Excel spreadsheet and remove selected items.
+- [Clean XLSX](https://www.freeprotool.com/tools/clean-xlsx): Run a document cleanup checklist for images, links, emails, metadata, comments, and hidden content.
+- [Remove Pages from PDF](https://www.freeprotool.com/tools/remove-pages-from-pdf): Delete selected pages from a PDF and download a cleaned copy.
+- [Extract Pages from PDF](https://www.freeprotool.com/tools/extract-pages-from-pdf): Select PDF pages and save them as a separate document.
+- [Split PDF](https://www.freeprotool.com/tools/split-pdf): Split a PDF into smaller files by page range or selection.
+- [Remove Slides from PPTX](https://www.freeprotool.com/tools/remove-slides-from-pptx): Delete selected slides from a PowerPoint presentation.
+- [Extract Slides from PPTX](https://www.freeprotool.com/tools/extract-slides-from-pptx): Select slides from a PowerPoint presentation and export a smaller deck.
+
+## Transform Tools
+
+Rotate, flip, and mirror PDFs, SVGs, and image files locally.
+
+- [Rotate PDF](https://www.freeprotool.com/tools/rotate-pdf): Rotate every page in a PDF locally in your browser and download a new copy.
+- [Rotate PDF Pages](https://www.freeprotool.com/tools/rotate-pdf-pages): Rotate PDF pages 90 or 180 degrees locally and save the corrected file.
+- [Flip PDF](https://www.freeprotool.com/tools/flip-pdf): Flip PDF pages horizontally or vertically locally in your browser and download a new copy.
+- [Mirror PDF](https://www.freeprotool.com/tools/mirror-pdf): Mirror PDF pages left-to-right or top-to-bottom locally in your browser.
+- [Rotate SVG](https://www.freeprotool.com/tools/rotate-svg): Rotate SVG artwork locally while preserving editable vector markup.
+- [Flip SVG](https://www.freeprotool.com/tools/flip-svg): Flip SVG artwork horizontally or vertically in your browser.
+- [Mirror SVG](https://www.freeprotool.com/tools/mirror-svg): Mirror SVG artwork locally and download a transformed SVG file.
+- [Rotate PNG](https://www.freeprotool.com/tools/rotate-png): Rotate a PNG image locally and download the transformed image.
+- [Flip PNG](https://www.freeprotool.com/tools/flip-png): Flip a PNG image horizontally or vertically in your browser.
+- [Mirror PNG](https://www.freeprotool.com/tools/mirror-png): Mirror a PNG image locally and download the result.
+- [Rotate JPG](https://www.freeprotool.com/tools/rotate-jpg): Rotate a JPG or JPEG image locally and download a corrected image.
+- [Flip JPG](https://www.freeprotool.com/tools/flip-jpg): Flip a JPG or JPEG image horizontally or vertically in your browser.
+- [Mirror JPG](https://www.freeprotool.com/tools/mirror-jpg): Mirror a JPG or JPEG image locally and download the result.
+- [Rotate WEBP](https://www.freeprotool.com/tools/rotate-webp): Rotate a WEBP image locally and download a transformed image.
+- [Flip WEBP](https://www.freeprotool.com/tools/flip-webp): Flip a WEBP image horizontally or vertically in your browser.
+- [Mirror WEBP](https://www.freeprotool.com/tools/mirror-webp): Mirror a WEBP image locally and download the result.
+
+## Image Conversion Tools
+
+Convert PNG, JPG, WEBP, and SVG images locally in your browser.
+
+- [Convert PNG to JPG](https://www.freeprotool.com/tools/convert-png-to-jpg): Convert PNG files to JPG locally in your browser and download a new image.
+- [Convert PNG to WEBP](https://www.freeprotool.com/tools/convert-png-to-webp): Convert PNG files to WEBP locally in your browser and download a new image.
+- [Convert JPG to PNG](https://www.freeprotool.com/tools/convert-jpg-to-png): Convert JPG files to PNG locally in your browser and download a new image.
+- [Convert JPG to WEBP](https://www.freeprotool.com/tools/convert-jpg-to-webp): Convert JPG files to WEBP locally in your browser and download a new image.
+- [Convert WEBP to PNG](https://www.freeprotool.com/tools/convert-webp-to-png): Convert WEBP files to PNG locally in your browser and download a new image.
+- [Convert WEBP to JPG](https://www.freeprotool.com/tools/convert-webp-to-jpg): Convert WEBP files to JPG locally in your browser and download a new image.
+- [Convert SVG to PNG](https://www.freeprotool.com/tools/convert-svg-to-png): Convert SVG files to PNG locally in your browser and download a new image.
+- [Convert SVG to JPG](https://www.freeprotool.com/tools/convert-svg-to-jpg): Convert SVG files to JPG locally in your browser and download a new image.
+- [Convert SVG to WEBP](https://www.freeprotool.com/tools/convert-svg-to-webp): Convert SVG files to WEBP locally in your browser and download a new image.
+
+## Merge Tools
+
+Combine PDFs, data files, and text-based files locally in your browser.
+
+- [Merge Files](https://www.freeprotool.com/tools/merge-files): Combine multiple same-format files into one downloadable file locally in your browser.
+- [Merge PDF](https://www.freeprotool.com/tools/merge-pdf): Merge multiple PDF files page-by-page in upload order and download one combined PDF.
+- [Merge CSV](https://www.freeprotool.com/tools/merge-csv): Merge CSV files by keeping the first header and appending rows from later files.
+- [Merge TSV](https://www.freeprotool.com/tools/merge-tsv): Merge TSV files by keeping the first header and appending rows from later files.
+- [Merge TXT](https://www.freeprotool.com/tools/merge-txt): Merge plain text files in your chosen order with clean spacing between files.
+- [Merge JSON](https://www.freeprotool.com/tools/merge-json): Merge JSON arrays or JSON objects into one pretty-printed JSON file.
+- [Merge XML](https://www.freeprotool.com/tools/merge-xml): Merge XML documents by wrapping each document root inside one mergedDocuments root.
+- [Merge YAML](https://www.freeprotool.com/tools/merge-yaml): Merge YAML files as a safe multi-document YAML stream separated by document markers.
+- [Merge Markdown](https://www.freeprotool.com/tools/merge-markdown): Merge Markdown files in order with clean spacing between each document.
+- [Merge SQL](https://www.freeprotool.com/tools/merge-sql): Merge SQL files in order while preserving each script's original content.
+- [Merge LOG](https://www.freeprotool.com/tools/merge-log): Merge log files chronologically or manually by arranging files before export.
+- [Merge INI](https://www.freeprotool.com/tools/merge-ini): Merge INI configuration files in order with clean separators between files.
+- [Merge CONF](https://www.freeprotool.com/tools/merge-conf): Merge CONF configuration files in order while preserving original text.
+
+## Data Tools
+
+Format, validate, convert, and corrupt structured data for testing.
+
+- [JSON Formatter](https://www.freeprotool.com/tools/json-formatter): Format, pretty-print, and clean JSON data for easier reading.
+- [JSON Validator](https://www.freeprotool.com/tools/json-validator): Validate JSON syntax and find common structure errors quickly.
+- [CSV to JSON](https://www.freeprotool.com/tools/csv-to-json): Convert CSV table data into JSON arrays and objects.
+- [JSON to CSV](https://www.freeprotool.com/tools/json-to-csv): Convert JSON arrays and objects into CSV table data.
+- [XML Formatter](https://www.freeprotool.com/tools/xml-formatter): Format and pretty-print XML documents for easier reading.
+- [JSON Corruptor](https://www.freeprotool.com/tools/json-corruptor): Generate broken or noisy JSON samples for parser and error handling tests.
+- [CSV Corruptor](https://www.freeprotool.com/tools/csv-corruptor): Generate messy CSV data for import, parser, and validation testing.
+- [API Response Corruptor](https://www.freeprotool.com/tools/api-response-corruptor): Create malformed API response samples for frontend and backend testing.
+- [Dataset Corruptor](https://www.freeprotool.com/tools/dataset-corruptor): Add controlled noise, missing values, and bad rows to datasets for testing.
+
+## Sample data sets
+
+Each download is a ZIP holding a cohesive fictional business dataset spread across multiple file formats, safe for testing imports, parsers, converters, viewers, search indexes, analytics, and AI data pipelines. No real, private, or production data is included.
+
+- [Northwind Outdoor Supply Operations](https://www.freeprotool.com/sample-data/datasets/northwind-outdoor-supply-operations.zip): Operations data for an outdoor supply retailer, including customers, products, orders, inventory, employees, vendors, shipping events, audit logs, reports, dictionaries, schemas, and supporting files. Formats: CSV, JSON, XML, XLSX, DOCX, SQL, LOG, MD. (2.3 MB, 18 files)
+- [Blue Ridge Medical Group Administration](https://www.freeprotool.com/sample-data/datasets/blue-ridge-medical-group-administration.zip): Administrative healthcare data covering patients, providers, appointments, facilities, insurance claims, billing records, departments, audit logs, reports, dictionaries, and schemas. Formats: CSV, JSON, XML, XLSX, DOCX, SQL, LOG, MD. (505 KB, 13 files)
+- [Southeastern Freight Services Logistics](https://www.freeprotool.com/sample-data/datasets/southeastern-freight-services-logistics.zip): Freight and logistics data for shipments, warehouses, drivers, routes, maintenance records, delivery exceptions, tracking events, fuel reports, dictionaries, and schemas. Formats: CSV, JSON, XLSX, LOG, MD. (506 KB, 12 files)
+- [Vertex Software Solutions Help Desk](https://www.freeprotool.com/sample-data/datasets/vertex-software-solutions-help-desk.zip): Support operations data with customer accounts, tickets, escalations, ticket history, agent notes, knowledge base articles, SLA reports, audit logs, data dictionaries, and schemas. Formats: CSV, JSON, XLSX, TXT, MD, LOG. (442 KB, 12 files)
+- [TalentBridge Recruiting](https://www.freeprotool.com/sample-data/datasets/talentbridge-recruiting.zip): Recruiting workflow data with applications, recruiter activity, offers, candidate profiles, interview notes, job postings, hiring metrics, schemas, dictionaries, and documentation. Formats: CSV, JSON, XLSX, DOCX, TXT, MD. (384 KB, 11 files)
+- [Marketplace Reviews Archive](https://www.freeprotool.com/sample-data/datasets/marketplace-reviews-archive.zip): Marketplace review data with review text, responses, seller profiles, sentiment labels, products, categories, dictionaries, schemas, and documentation. Formats: CSV, JSON, XML, XLSX, MD. (359 KB, 10 files)
+- [City of Oakridge Municipal Operations](https://www.freeprotool.com/sample-data/datasets/city-of-oakridge-municipal-operations.zip): Local government operations data covering building permits, business licenses, property records, inspections, service requests, budgets, meeting minutes, logs, dictionaries, and schemas. Formats: CSV, JSON, XLSX, DOCX, LOG. (344 KB, 12 files)
+- [Western Piedmont University](https://www.freeprotool.com/sample-data/datasets/western-piedmont-university.zip): University sample data with students, faculty, courses, enrollments, housing, research projects, library catalog records, academic calendar files, dictionaries, and schemas. Formats: CSV, JSON, XML, XLSX, DOCX, MD. (291 KB, 12 files)
+- [PeakTrail Outfitters E-Commerce](https://www.freeprotool.com/sample-data/datasets/peaktrail-outfitters-ecommerce.zip): E-commerce operations data with customers, orders, returns, reviews, products, categories, inventory, marketing campaigns, shipping events, dictionaries, and schemas. Formats: CSV, JSON, XML, XLSX, LOG, MD. (283 KB, 12 files)
